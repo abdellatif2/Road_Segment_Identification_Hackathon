@@ -10,4 +10,4 @@ Our solution was based on a pretrained DenseNet 50 model, and on creating new da
  
 **Final Score(AUC score): 0.9343 (competition winner Score: 0.9699)**
 
-**Final rank: 38 out of 70 (top 30%)**
+**Final rank: 38 out of 70**
